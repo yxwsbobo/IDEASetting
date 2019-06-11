@@ -3,7 +3,7 @@
     <property name="created">2019-03-28T16:03:19</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-06-11T14:02:51</property>
+    <property name="modified">2019-06-11T15:41:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -100,9 +100,19 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="org.rust.FIELD">
+      <value>
+        <option name="FOREGROUND" value="60bf00" />
+      </value>
+    </option>
     <option name="org.rust.FUNCTION">
       <value>
         <option name="FOREGROUND" value="60bf00" />
+      </value>
+    </option>
+    <option name="org.rust.IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d5d500" />
       </value>
     </option>
     <option name="org.rust.INVALID_STRING_ESCAPE">
