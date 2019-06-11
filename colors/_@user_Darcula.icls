@@ -1,0 +1,77 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-03-28T16:03:19</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.1.0.0</property>
+    <property name="modified">2019-03-28T16:11:09</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FOREGROUND" value="60bf00" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="OC.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="60bf00" />
+      </value>
+    </option>
+    <option name="OC.FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="60bf00" />
+      </value>
+    </option>
+    <option name="OC.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff3535" />
+      </value>
+    </option>
+    <option name="OC.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="b9b900" />
+      </value>
+    </option>
+    <option name="OC.MACRONAME">
+      <value>
+        <option name="FOREGROUND" value="ff40ff" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="OC.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+      </value>
+    </option>
+    <option name="OC.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="b9b900" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_FIELD">
+      <value>
+        <option name="FOREGROUND" value="60bf00" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="ff8000" />
+      </value>
+    </option>
+    <option name="OC.TYPEDEF">
+      <value>
+        <option name="FOREGROUND" value="ff8000" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
