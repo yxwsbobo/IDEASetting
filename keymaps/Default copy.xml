@@ -1,6 +1,9 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="FileStructurePopup">
+  <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="Console.TableResult.ColumnsList" />
+  <action id="FileStructurePopup" />
   <action id="QuickChangeScheme" />
+  <action id="UML.ShowStructure" />
 </keymap>
