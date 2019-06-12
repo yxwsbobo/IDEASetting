@@ -5,5 +5,7 @@
   <action id="Console.TableResult.ColumnsList" />
   <action id="FileStructurePopup" />
   <action id="QuickChangeScheme" />
-  <action id="UML.ShowStructure" />
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
 </keymap>
